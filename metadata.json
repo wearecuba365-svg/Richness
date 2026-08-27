@@ -1,0 +1,8 @@
+{
+  "name": "Remix Richlogy 4.0",
+  "description": "A gamified transformation course and luxury daily ritual app based on Think and Grow Rich principles with mindset tracking, 13 core modules, ritual notebook, and KPI dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

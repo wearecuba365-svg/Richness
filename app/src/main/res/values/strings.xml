@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Richlogy</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_modules">Modules</string>
+    <string name="nav_ai_council">AI Council</string>
+    <string name="nav_vision_board">Vision</string>
+    <string name="nav_notebook">Notebook</string>
+    <string name="nav_leaderboard">Leaderboard</string>
+    <string name="nav_profile">Profile</string>
+</resources>
